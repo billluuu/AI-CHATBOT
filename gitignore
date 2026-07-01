@@ -1,0 +1,10 @@
+# API key file - contains secrets, never commit
+config.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
